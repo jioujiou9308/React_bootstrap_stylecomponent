@@ -1,0 +1,10 @@
+{
+    "workbench.colorCustomizations": {
+        "editorRuler.foreground": "#fffc40",
+        "activityBar.background": "#09227D",
+        "titleBar.activeBackground": "#0D2FAF",
+        "titleBar.activeForeground": "#F9FAFF"
+    },
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 80
+}
